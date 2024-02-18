@@ -1,5 +1,5 @@
 ## Example
-<!-- start:code block -->
+```
 Human: I have two pet cats. One of them is missing a leg. The other one has a normal number of legs for a cat to have. In total, how many legs do my cats have?
 
 Assistant: Can I think step-by-step?
@@ -7,7 +7,7 @@ Assistant: Can I think step-by-step?
 Yes, please do. When you reply, put your step-by-step thoughts in `<thinking></thinking>` XML tags. This is a space for you to write down relevant content and will not be shown to the user. Once you are done writing down your step-by-step thoughts, put your answer to the user inside `<answer></answer>` XML tags.
 
 Do you understand the instructions?
-<!-- end:code block -->
+```
 
 ## Example
 <!-- start:code block -->
@@ -44,7 +44,6 @@ Do you understand the instructions?
 
 
 ## Example
-<!-- start:code block -->
 ```
 Please follow these steps:
 1. Write three topic sentences arguing for {{STATEMENT}}.
@@ -53,4 +52,3 @@ Please follow these steps:
 
 Do you understand the instructions?
 ```
-<!-- end:code block -->
