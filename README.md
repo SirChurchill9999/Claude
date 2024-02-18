@@ -14,3 +14,13 @@ Please follow these steps:
 2. Write three topic sentences arguing against {{STATEMENT}}.
 3. Write an essay by expanding each topic sentence from Steps 1 and 2, and adding a conclusion to synthesize the arguments. Please enclose the essay in &lt;essay&gt;&lt;/essay&gt; XML tags.
 <!-- end:code block -->
+
+## Example
+<!-- start:code block -->
+```
+Please follow these steps:
+1. Write three topic sentences arguing for {{STATEMENT}}.
+2. Write three topic sentences arguing against {{STATEMENT}}.
+3. Write an essay by expanding each topic sentence from Steps 1 and 2, and adding a conclusion to synthesize the arguments. Please enclose the essay in <essay></essay> XML tags.
+```
+<!-- end:code block -->
