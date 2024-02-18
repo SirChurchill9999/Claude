@@ -28,10 +28,20 @@ Do you understand the instructions?
 >
 >1. Write three topic sentences arguing for {{STATEMENT}}.
 >2. Write three topic sentences arguing against {{STATEMENT}}.
->3. Write an essay by expanding each topic sentence from Steps 1 and >2, and adding a conclusion to synthesize the arguments. Please >enclose the essay in `<essay></essay>` XML tags.
+>3. Write an essay by expanding each topic sentence from Steps 1 and >2, and adding a conclusion to synthesize the arguments. Please >enclose the essay in &lt;essay&gt;&lt;/essay&gt; XML tags.
 >
 >
 ><br>Do you understand the instructions?</p>
+
+## Example
+Please follow these steps:
+1. Write three topic sentences arguing for {{STATEMENT}}.
+2. Write three topic sentences arguing against {{STATEMENT}}.
+3. Write an essay by expanding each topic sentence from Steps 1 and 2, and adding a conclusion to synthesize the arguments. Please enclose the essay in &lt;essay&gt;&lt;/essay&gt; XML tags.
+
+Do you understand the instructions?
+
+
 
 ## Example
 <!-- start:code block -->
